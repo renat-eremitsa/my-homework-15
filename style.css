@@ -6,3 +6,16 @@
   box-sizing: border-box;
   font-family: 'Open Sans', sans-serif;
 }
+
+nav{
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile img{
+  width: 300px;
+  display: flex;
+  justify-content: flex-end;
+}
